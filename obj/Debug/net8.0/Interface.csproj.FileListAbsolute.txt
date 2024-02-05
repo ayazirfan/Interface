@@ -12,3 +12,4 @@ c:\Users\HP\Desktop\Patika\Interface\obj\Debug\net8.0\refint\Interface.dll
 c:\Users\HP\Desktop\Patika\Interface\obj\Debug\net8.0\Interface.pdb
 c:\Users\HP\Desktop\Patika\Interface\obj\Debug\net8.0\Interface.genruntimeconfig.cache
 c:\Users\HP\Desktop\Patika\Interface\obj\Debug\net8.0\ref\Interface.dll
+c:\Users\HP\Desktop\Patika\Interface\obj\Debug\net8.0\Interface.sourcelink.json

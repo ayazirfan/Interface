@@ -1,5 +1,7 @@
 ﻿
 using Interface;
+using Interfacee;
+
 
 Focus focus = new();
 System.Console.WriteLine(focus.HangiMarkanınAraci());
@@ -12,3 +14,6 @@ Civic civic = new Civic();
 System.Console.WriteLine(civic.HangiMarkanınAraci());
 System.Console.WriteLine(civic.KactekerlektenOlusur());
 System.Console.WriteLine(civic.StandartRengiNe());
+
+Deneme deneme = new Deneme();
+deneme.denemeSinifi();
